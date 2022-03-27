@@ -4,9 +4,12 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  background-color: #16161d;
   color: #fff;
   overflow-x: hidden;
+  text-shadow: 0px 0px 600px white;
+  box-shadow: 0px 0px 600px white;
+
 }
 #root {
   min-height: 100vh;
